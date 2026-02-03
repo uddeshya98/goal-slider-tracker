@@ -3,7 +3,7 @@
 A simple Streamlit dashboard to track study hours, calculate required daily pace, and visualize **Actual vs Ideal** cumulative progress.
 
 ## 🚀 Live Demo
-https://goal-slider-tracker-hw5lfpvhnw7qb5p3zzpnul.streamlit.app/
+ https://goal-slider-tracker-hw5lfpvhwm7qb5p37zpnul.streamlit.app/
 
 ## ✨ Features
 - Goal settings: target hours, start date, exam date
