@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+study_logs.csv
+tasks.json
+settings.json
